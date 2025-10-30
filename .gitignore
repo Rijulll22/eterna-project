@@ -1,0 +1,10 @@
+# Ignore node modules, uploads, logs, database, OS junk, build outputs
+node_modules/
+uploads-audio/
+*.log
+*.db
+.env
+.DS_Store
+Thumbs.db
+frontend/build/
+coverage/
